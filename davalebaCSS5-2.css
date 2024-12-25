@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+    background: #07081A;
+}
+
+.contact {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    padding: 28px 0px 0px;
+    align-items: end;
+}
+
+.contact--conteiner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+}
+
+.Document--contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.Cloudo {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.contact--us {
+    display: flex;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    align-items: center;
+    gap: 16px;
+}
+
+.home--contact {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Frame {
+    border-bottom: 1px solid #261C51;
+}
+
+.Best--Skin {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Trade--BOT {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 52px;
+}
+
+.Project--competed {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    padding: 40px 72px;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: #242642;
+    margin-top: 64px;
+}
+
+.competed--conteiner {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.nombr--contact {
+
+    color: #C0C0C0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.Project--nombr {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 60px;
+}
+
+.amazing--conteiner {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.design--conteiner {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 300px;
+    width: 100%;
+}
+
+.Group--conteinet {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.experiences--contact {
+    color: #C0C0C0;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.Navigation {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Support--conteiner {
+    display: flex;
+
+}
+
+.contact--Guide {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    flex-direction: column;
+    display: flex;
+    gap: 16px;
+}
+
+.Inventory {
+    display: flex;
+}
+
+.contact--Guide--Info {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
